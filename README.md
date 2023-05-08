@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src = "https://github.com/daniellelei/daniellelei/blob/main/coding%20girl.gif?raw=true" style="width:300px">
+<img src = "https://github.com/daniellelei/daniellelei/blob/main/coding%20girl.gif?raw=true" style="width:500px">
 
 **daniellelei/daniellelei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
