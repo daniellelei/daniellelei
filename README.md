@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: danielle.lei2014@gmail.com
 - 😄 Pronouns: She/Her/Hers
-- ⚡ Fun fact: ...
+- Interests: hiking, biking, road-trip
 -->
 
 <p align="center">
