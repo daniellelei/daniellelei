@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://daniellelei.github.io/"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Frontend+Developer;Backend+Developer;Competitive+Programmer;Always+learning+new+things"></a>
 </p>
-<img src = "https://github.com/daniellelei/daniellelei/blob/main/coding%20girl.gif?raw=true" style="width:500px">
+<img src = "https://github.com/daniellelei/daniellelei/blob/main/coding%20girl.gif?raw=true" style="width:800px">
 
 **daniellelei/daniellelei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
