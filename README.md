@@ -11,11 +11,12 @@
 
 
 - 🔭 I’m currently working on google map
-- 🌱 I’m currently learning AWS, socket.io
-- 💬 Ask me about React, hiking spots, etc
+- 🌱 I’m currently learning AWS, socket.io, Cloud
+- 👯 I’m looking to collaborate on Machine Learning and Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 💬 Ask me about React, LA hiking spots, etc
 - 📫 How to reach me: danielle.lei2014@gmail.com
 - 😄 Pronouns: She/Her/Hers
-- Interests: hiking, biking, road-trip
+- Interests: 👩🏻‍💻Programming, 🏞️hiking, 🚴🏻‍♀️biking, 🛣️road-trip, 🖤K-pop
 - These are the skills I have and tools that I have experienced with
 -->
 
