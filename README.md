@@ -34,12 +34,12 @@
 
 ---
 
-![Danielle Lei's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daniellelei&hide=["stars"]&show_icons=true)
+![Danielle Lei's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daniellelei&theme=gruvbox&show_icons=true)
 
 ---
 
 <a href="https://github.com/daniellelei">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellelei&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellelei&layout=donut" />
 </a>
 
 ---
