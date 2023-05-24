@@ -1,8 +1,8 @@
 <!-- ### Hi there 👋 -->
 [![Linkedin Badge](https://img.shields.io/badge/-Danielle_Lei-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielle-lei/)](https://www.linkedin.com/in/danielle-lei/)
-[![Gmail Badge](https://img.shields.io/badge/-Danielle_Lei-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:danielle.lei2014@gmail.com)](mailto:danielle.lei2014@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-danielle.lei2014@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:danielle.lei2014@gmail.com)](mailto:danielle.lei2014@gmail.com)
 [![Angellist Badge](https://img.shields.io/badge/-Danielle_Lei-black?style=flat&logo=Angellist&logoColor=white&link=https://wellfound.com/u/danielle-lei)](https://wellfound.com/u/danielle-lei)
-[![Github Badge](https://img.shields.io/badge/-Danielle_Lei-black?style=flat&logo=Github&logoColor=white&link=https://github.com/daniellelei)](https://github.com/daniellelei)
+[![Github Badge](https://img.shields.io/badge/-daniellelei-black?style=flat&logo=Github&logoColor=white&link=https://github.com/daniellelei)](https://github.com/daniellelei)
 <p align="center">
   <a href="https://daniellelei.github.io/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=e38422&background=fadd924D&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+there+👋+My+Name+is+Danielle+Lei;I+Am+a+Software+Engineer+👩🏻‍💻;"></a>
 </p>
