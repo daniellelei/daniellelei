@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-## Contact Me
+## Danielle Lei
 [![Linkedin Badge](https://img.shields.io/badge/-Danielle_Lei-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielle-lei/)](https://www.linkedin.com/in/danielle-lei/)
 [![Gmail Badge](https://img.shields.io/badge/-danielle.lei2014@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:danielle.lei2014@gmail.com)](mailto:danielle.lei2014@gmail.com)
 [![Angellist Badge](https://img.shields.io/badge/-Danielle_Lei-black?style=flat&logo=Angellist&logoColor=white&link=https://wellfound.com/u/danielle-lei)](https://wellfound.com/u/danielle-lei)
@@ -32,16 +32,14 @@
   </a>
 </p>
 
----
+
+
+## Github Stats  
 
 ![Danielle Lei's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daniellelei&theme=gruvbox&show_icons=true&rank_icon=github)
-
----
-
 <a href="https://github.com/daniellelei">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellelei&layout=donut" />
 </a>
-
 ---
 
 ## Contact Me
@@ -50,4 +48,4 @@
 [![Angellist Badge](https://img.shields.io/badge/-Danielle_Lei-black?style=flat&logo=Angellist&logoColor=white&link=https://wellfound.com/u/danielle-lei)](https://wellfound.com/u/danielle-lei)
 [![Github Badge](https://img.shields.io/badge/-daniellelei-black?style=flat&logo=Github&logoColor=white&link=https://github.com/daniellelei)](https://github.com/daniellelei)
 
-
+![Profile views counter](https://komarev.com/ghpvc/?username=daniellelei&&style=flat-square)  
