@@ -12,7 +12,7 @@
 </p>
 
 
-👩🏻‍💻 I'm a versatile software engineer with a background in molecular biology and bioinformatics. My passion for both fields has driven me to acquire a diverse skill set that combines scientific knowledge with programming expertise. Proficient in multiple programming languages, including JavaScript, Python, and C++, I am well-versed in utilizing various frameworks and packages such as React, Redux, Sequelize, Express, FLASK, CSS, and HTML. With a solid foundation in both software development and biological sciences, I am equipped to tackle complex projects that require a blend of technical and domain-specific knowledge.
+👩🏻‍💻 I'm a versatile software engineer with a background in molecular biology and bioinformatics. My passion for both fields has driven me to acquire a diverse skill set that combines scientific knowledge with programming expertise. Proficient in multiple programming languages, including JavaScript, Python, and C++, I am well-versed in utilizing various frameworks and packages such as React, Redux, Sequelize, Express, FLASK, SqeAlchemy, CSS3, and HTML5. With a solid foundation in both software development and biological sciences, I am equipped to tackle complex projects that require a blend of technical and domain-specific knowledge.
 
 
 - 🔭 I’m currently working on google map
