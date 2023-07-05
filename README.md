@@ -10,7 +10,7 @@
   <a href="https://daniellelei.github.io/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=e38422&background=fadd924D&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+there+👋+My+Name+is+Danielle+Lei;I+Am+a+Software+Engineer+👩🏻‍💻;"></a>
 </p>
 <p align="center">
-  <img src = "https://github.com/daniellelei/daniellelei/blob/main/coding%20girl.gif?raw=true" style="width:500px">
+  <img src = "https://github.com/daniellelei/daniellelei/blob/main/coding%20girl.gif?raw=true" style="width:600px">
 </p>
 
 
