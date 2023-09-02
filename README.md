@@ -18,7 +18,7 @@
 
 
 - 🔭 I’m currently working on adding a new feature to Star Power Coffee
-- 🌱 I’m currently learning Typescript, Angular, and AWS Cloud
+- 🌱 I’m currently learning Typescript, Angular, and Cloud Computing
 - 👯 I’m looking to collaborate on Machine Learning and Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💬 Ask me about React, LA hiking spots, etc
 - 📫 How to reach me: danielle.lei2014@gmail.com
