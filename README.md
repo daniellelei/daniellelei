@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on adding a new feature to Star Power Coffee
 - 🌱 I’m currently learning .NET and AWS
-- 👯 I’m looking to collaborate on Machine Learning and Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 👯 I’m looking to collaborate on Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💬 Ask me about LA hiking spots
 - 📫 How to reach me: danielle.lei2014@gmail.com
 - 😄 Pronouns: She/Her/Hers
