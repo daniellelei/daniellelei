@@ -23,7 +23,7 @@
 - 💬 Ask me about LA hiking spots
 - 📫 How to reach me: danielle.lei2014@gmail.com
 - 😄 Pronouns: She/Her/Hers
-- Interests: 👩🏻‍💻Programming, 🏞️hiking,  🛣️road-trip, 🖤K-pop, 🥐baking
+- Interests: 👩🏻‍💻Programming, 🏞️hiking,  🛣️road-trip, 🖤K-pop
 - These are the skills I have and tools that I have experienced with
 -->
 
