@@ -39,9 +39,7 @@
 ## Github Stats  
 
 ![Danielle Lei's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daniellelei&theme=gruvbox&show_icons=true&rank_icon=github)
-<a href="https://github.com/daniellelei">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellelei&layout=donut" />
-</a>
+
 ---
 
 ## Contact Me
