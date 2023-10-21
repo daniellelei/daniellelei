@@ -36,9 +36,7 @@
 
 
 
-## Github Stats  
 
-![Danielle Lei's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daniellelei&theme=gruvbox&show_icons=true&rank_icon=github)
 
 ---
 
