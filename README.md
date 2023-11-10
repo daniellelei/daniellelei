@@ -17,7 +17,7 @@
 👩🏻‍💻 I'm a versatile software engineer with a background in molecular biology and bioinformatics. My passion for both fields has driven me to acquire a diverse skill set that combines scientific knowledge with programming expertise. Proficient in multiple programming languages, including JavaScript, Python, SQL, and C++, I am well-versed in utilizing various frameworks and packages such as React.js, Redux.js, Express.js, FLASK, SqlAlchemy, RESTful APIs, etc. With a solid foundation in both software development and biological sciences, I am equipped to tackle complex projects that require a blend of technical and domain-specific knowledge.
 
 
-- 🔭 I’m currently working on adding new features to Star Power Coffee
+- 🔭 I’m currently working on adding more new features to Star Power Coffee
 - 🌱 I’m currently learning cloud computing and data analytics
 - 👯 I’m looking to collaborate on Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💬 Ask me about LA hiking spots and west-coast beaches
