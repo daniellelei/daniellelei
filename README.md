@@ -22,7 +22,7 @@
 - 👯 I’m looking to collaborate on Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💬 Ask me about LA hiking spots and west-coast beaches
 - 📫 How to reach me: danielle.lei2014@gmail.com
-- 😄 Pronouns: She/Her/Hers
+- 😄 Pronouns: She/Her
 - Interests: 👩🏻‍💻Programming, 🏞️hiking,  🛣️road-trip, 🖤K-pop
 - These are the skills I have and tools that I have experienced with
 -->
