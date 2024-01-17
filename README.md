@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-## Hi there 👋 , I am Danielle Lei
+## Hi there 👋  I am Danielle Lei
 [![Linkedin Badge](https://img.shields.io/badge/-Danielle_Lei-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielle-lei/)](https://www.linkedin.com/in/danielle-lei/)
 [![Gmail Badge](https://img.shields.io/badge/-danielle.lei2014@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:danielle.lei2014@gmail.com)](mailto:danielle.lei2014@gmail.com)
 [![Angellist Badge](https://img.shields.io/badge/-Danielle_Lei-black?style=flat&logo=Angellist&logoColor=white&link=https://wellfound.com/u/danielle-lei)](https://wellfound.com/u/danielle-lei)
