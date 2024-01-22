@@ -18,7 +18,7 @@
 
 
 - 🔭 I’m currently working on adding more new features to Star Power Coffee
-- 🌱 I’m currently learning AWS cloud
+- 🌱 I’m currently learning AWS cloud computing
 - 👯 I’m looking to collaborate on Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💬 Ask me about LA hiking spots and west-coast beaches
 - 📫 How to reach me: danielle.lei2014@gmail.com
